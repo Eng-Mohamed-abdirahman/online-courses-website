@@ -204,12 +204,6 @@ margin-left: 7rem;
   margin-bottom: 2rem;
 }
 
-
-
-
-
-
-
 .courses img{
   height: 200px;
   width: 100%;
@@ -221,7 +215,7 @@ margin-left: 7rem;
   gap: 15px;
   padding: 20px;
   text-align: center;
-  margin-bottom: 15rem;
+  margin-bottom: 10rem;
 
 
 }
@@ -304,9 +298,9 @@ footer{
   margin-bottom: 15rem;
   display: flex;
   margin-inline: 10px;
-  margin-left: 5rem;
+  margin-left: 3rem;
   width: 100vw;
-  height: 100vh;
+  height: 100%;
 }
 .contact-form{
   display: grid;
